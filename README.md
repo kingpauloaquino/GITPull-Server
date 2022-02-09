@@ -31,3 +31,5 @@ Then, you can access it on your browser. `http://localhost:21885/pull` or `http:
 Be sure you allow the ./gitserver to your privacy policy if you are a mac m1 user (Full Disk Access)
 
 And, be sure that you can git pull on your project via terminal before you use this app
+
+sample
