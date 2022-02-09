@@ -26,10 +26,10 @@ If all set, run the gitserver for Linux/Mac `./gitserver`
 
 Then, you can access it on your browser. `http://localhost:21885/pull` or `http://localhost:21885/pull?branch=main`
 
+Or, watch my video sample on youtube - [Youtube/Git Pull over the Browser](https://youtu.be/J4BEja5SI-E)
+
 ## Notes
 
 Be sure you allow the ./gitserver to your privacy policy if you are a mac m1 user (Full Disk Access)
 
 And, be sure that you can git pull on your project via terminal before you use this app
-
-sample
