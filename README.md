@@ -1,8 +1,12 @@
 # GITPull-Server
 
+I created this program for my team to pull the git on the server without accessing the ssh or remote desktop.
+
 Due to manual git pull on the server and the hassle of logging in on SSH or Remote Desktop.
 
-I created a program for my team to pull the git on the server without accessing the ssh or remote desktop.
+And, if you don't allow your dev team to log in on your server via SSH/RDP to make a git pull. Use this.
+
+So, by using this app, you give your dev team a way to make a git pull on its way without bothering you to do it or without giving them access to your server via SSH or RDP.
 
 ## Usage
 
