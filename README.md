@@ -1,8 +1,8 @@
 # GITPull-Server
 
-Due to always manual git pull on the server and the hassle of logging in on SSH or Remote Desktop.
+Due to manual git pull on the server and the hassle of logging in on SSH or Remote Desktop.
 
-I created a program to be able for my team and me to pull the git on the server without access to ssh or remote desktop
+I created a program for my team to pull the git on the server without accessing the ssh or remote desktop.
 
 ## Usage
 
@@ -24,12 +24,12 @@ YourWebProject
 
 If all set, run the gitserver for Linux/Mac `./gitserver`
 
-Then, you can access it on your browser. `http://localhost:21885/pull` or `http://localhost:21885/pull?branch=main`
+Then, you access it on your browser. `http://localhost:21885/pull` or `http://localhost:21885/pull?branch=main`
 
-Or, watch my video sample on youtube - [Youtube/Git Pull over the Browser](https://youtu.be/J4BEja5SI-E)
+Or, watch my video sample on youtube. - [Youtube/Git Pull over the Browser](https://youtu.be/J4BEja5SI-E)
 
 ## Notes
 
 Be sure you allow the ./gitserver to your privacy policy if you are a mac m1 user (Full Disk Access)
 
-And, be sure that you can git pull on your project via terminal before you use this app
+And, be sure that you can git pull on your project via terminal before using this app.
